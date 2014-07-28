@@ -1,0 +1,5 @@
+name: blog
+subname: ''
+markdown: redcarpet
+pygments: true
+baseurl: /jekyll_demo
